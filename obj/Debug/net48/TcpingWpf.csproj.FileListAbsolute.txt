@@ -1,0 +1,10 @@
+D:\BFZL\code\csharp\tcpingwpf\obj\Debug\net48\TcpingWpf.csproj.AssemblyReference.cache
+D:\BFZL\code\csharp\tcpingwpf\obj\Debug\net48\TcpingWpf.GeneratedMSBuildEditorConfig.editorconfig
+D:\BFZL\code\csharp\tcpingwpf\obj\Debug\net48\TcpingWpf.AssemblyInfoInputs.cache
+D:\BFZL\code\csharp\tcpingwpf\obj\Debug\net48\TcpingWpf.AssemblyInfo.cs
+D:\BFZL\code\csharp\tcpingwpf\obj\Debug\net48\TcpingWpf.csproj.CoreCompileInputs.cache
+D:\BFZL\code\csharp\tcpingwpf\bin\Debug\net48\TcpingWpf.exe.config
+D:\BFZL\code\csharp\tcpingwpf\bin\Debug\net48\TcpingWpf.exe
+D:\BFZL\code\csharp\tcpingwpf\bin\Debug\net48\TcpingWpf.pdb
+D:\BFZL\code\csharp\tcpingwpf\obj\Debug\net48\TcpingWpf.exe
+D:\BFZL\code\csharp\tcpingwpf\obj\Debug\net48\TcpingWpf.pdb
